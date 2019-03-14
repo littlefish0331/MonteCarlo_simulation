@@ -1,13 +1,17 @@
 # MonteCarlo_simulation
 Practice Monte Carlo Simulation with Python.
 
-[toc]
+*   [資料夾說明](##資料夾說明)
+*   [參考網址](##參考網址)
+    *   [material](###material)
+    *   [video](###video)
+*   [額外補充](##額外補充)
+    *   [蒙地卡羅小知識](###蒙地卡羅小知識)
+    *   [蒙地卡羅精隨](###蒙地卡羅精隨)
 
-:::danger
 **Keywords: Monte Carlo simulation, 蒙地卡羅, Buffon needle, 布豐投針**
-:::
 
-
+---
 ## 資料夾說明
 - material: 教材、講義(下面有列參考網址)
 - code: Python 的實作
@@ -16,7 +20,7 @@ Practice Monte Carlo Simulation with Python.
 - fonts: Google 提供的 Noto 系列中文字型，因為要用Python 的模組 PIL(Pillow) module 做蒙地卡羅視覺化
 - pic: 一些需要的圖片
 
-
+---
 ## 參考網址
 
 ### material
